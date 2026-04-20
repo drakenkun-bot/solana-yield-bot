@@ -1,14 +1,24 @@
-## 🚀 Smart Money Tracker
+## 🚀 DeFi Yield Bot
 
-Track high-performing Solana wallets with real-time insights and confidence scoring.
+A smart yield discovery and monitoring tool that helps users find and evaluate the best DeFi opportunities on Solana.
 
 ## 🔥 Features
-- Wallet tracking
-- Trade history
-- Confidence scoring system
-- Telegram alerts (if you add it)
 
-## 🧠 Powered by
-- Birdeye API
-- Solflare Wallet
-- QuickNode RPC
+* Real-time yield tracking
+* Pool discovery and ranking
+* Risk-adjusted yield scoring
+* Wallet integration (Solflare)
+
+## 🧠 How It Works
+
+The bot aggregates on-chain and market data, analyzes yield opportunities, and ranks them based on performance, stability, and liquidity.
+
+## ⚙️ Tech Stack
+
+* Kamino
+* RPC: QuickNode
+* Wallet: Solflare
+
+## 🌐 Live Demo
+
+https://defipj.netlify.app/
